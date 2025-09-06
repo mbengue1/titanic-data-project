@@ -9,7 +9,7 @@
 
 ## Abstract
 
-This study presents a comprehensive data mining analysis of the RMS Titanic disaster using a dataset of 891 passengers. Through statistical analysis, correlation studies, and visualization techniques, we examine the relationship between passenger characteristics and survival outcomes. Our findings reveal significant disparities in survival rates based on gender, passenger class, and age, with women and children showing substantially higher survival rates than adult men. The analysis demonstrates clear socioeconomic stratification effects, where higher-class passengers not only paid significantly more for their tickets but also had dramatically better survival prospects.
+This study presents a comprehensive data mining analysis of the RMS Titanic disaster using a dataset of 891 passengers. Through statistical analysis, correlation studies, and visualization techniques, we examine the relationship between passenger characteristics and survival outcomes. Our findings reveal significant disparities in survival rates based on gender, passenger class, and age, with women and children showing substantially higher survival rates than adult men. The analysis demonstrates clear socioeconomic effects, where higher-class passengers not only paid significantly more for their tickets but also had dramatically better survival prospects.
 
 ## 1. Introduction
 
